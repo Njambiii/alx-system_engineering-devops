@@ -9,7 +9,7 @@ simple Holberton WordPress site.
 ## Debugging Process
 
 I encountered the issue upon opening the project and being, well, instructed to
-address it, roughly 20:00 EAT. She promptly proceeded to undergo solving the problem.
+address it, roughly 20:00 EAT. She promptly proceeded to undergo solving the problem. 
 
 1. Checked running processes using `ps aux`. Two `apache2` processes - `root` and `www-data` -
 were properly running.
